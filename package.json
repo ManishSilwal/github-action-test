@@ -1,0 +1,12 @@
+{
+  "name": "github-action-tests",
+  "version": "1.0.0",
+  "description": "github actions unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/addNumbers.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
