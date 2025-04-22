@@ -14,7 +14,7 @@ describe("test suite", function(){
     });
 
     it("works with positive and negative", function(){
-        expect(addNumbers(2,-3)).toEqual(-1);
+        expect(addNumbers(2,-3)).toEqual(-2);
     });
 });
 
